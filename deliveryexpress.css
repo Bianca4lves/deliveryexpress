@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.topo {
+    background-color: #23b4eb;
+    text-align: center;
+    font-size: 18px;
+    padding: 5px 0;
+    width: 100%;
+}
+.links li, .linkc li {
+    display: inline;
+    padding: 0 12px;
+}
+.links a {
+    color: white;
+}
+.capa img{
+    width: 100%;
+}
+.conteudo {
+    width: 65%;
+    margin: 0 auto;
+}
+.conteudo h1 {
+    font-size: 24px;
+}
+.conteudo p {
+    line-height: 25px;
+}
+.sobrenos, .contato {
+    margin: 50px 0;
+}
+.sobrenos img {
+    width: 100%;
+}
+.contato h2 {
+    font-size: 20px;
+}
+.contato a {
+    background-color: #23b4eb;
+    color: white;
+    padding: 10px;
+    margin: auto 0;
+}
+.contato li {
+    padding: 0;
+}
+.contato ul {
+    padding-left: 0;
+}
